@@ -1,0 +1,16 @@
+.head {
+    height: 65px;
+    background-color: rgb(168, 54, 153);
+    width: auto;
+  }
+  
+.head-user {
+  float: right;
+}
+
+img {
+  height: 60px;
+  padding-top: 5px;
+  padding-right: 5px;
+  color: blanchedalmond;
+}
